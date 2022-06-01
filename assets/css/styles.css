@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/bosque.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 70px !important;
+    font-family: 'Merriweather', serif;
+    margin-top: 10rem !important;
+}
+
+.acordion{
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-bottom: 15rem;
+    margin-top: 10rem;
+}
